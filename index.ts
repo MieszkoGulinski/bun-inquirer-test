@@ -33,5 +33,5 @@ const hashedPassword = await Bun.password.hash(enteredPassword);
 
 console.log("Congratulations!");
 console.log("Your name is " + name);
-console.log("Your room will be painted" + colors.join(" and "));
+console.log("Your room will be painted " + colors.join(" and "));
 console.log("Hash of your password is " + hashedPassword);

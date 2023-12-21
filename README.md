@@ -1,6 +1,6 @@
 # Simple test if Inquirer runs on Bun
 
-Looks like yes.
+**Looks like yes**.
 
 We're using `@inquirer/prompts` library, which is the newest version of Inquirer.
 
