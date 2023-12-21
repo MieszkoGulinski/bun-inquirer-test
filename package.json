@@ -1,0 +1,14 @@
+{
+  "name": "bun-inquirer-test",
+  "module": "index.ts",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "type": "module",
+  "dependencies": {
+    "@inquirer/prompts": "^3.3.0"
+  }
+}
